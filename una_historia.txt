@@ -7,3 +7,5 @@ Me gusta la informatica 💻
 Y la tecnologia
 
 Cambio en master 1
+
+Cambio en parche 1
